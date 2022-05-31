@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning web scraping dynamic sites with Python in real time to develop my latest project, football-app.
 - 💞️ I’m looking to collaborate on ... I am looking for a new work environment that places an emphasis on best practices and excellence in tech.
 - 📫 How to reach me ... taylor.barron989@gmail.com or (513)876-5431
+- Check out my website: www.taylor-barron.com
