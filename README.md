@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @taylor-barron
 - 👀 I’m interested in working with capable partners that 
 - 📫 How to reach me ... taylorb@mustwatchsports.com
-- Check out my website: www.mustwatchsports.com
+- Check out my website: mustwatchsports.com
